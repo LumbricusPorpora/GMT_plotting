@@ -1,1 +1,1 @@
-# GMT_plotting
+# GMT_plot
